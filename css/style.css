@@ -1,0 +1,72 @@
+/* Add all your styles here */
+*{
+    margin:0 ;
+    padding:0 ;
+}
+
+.logo {
+    width:50px ;
+    height:33px ;
+    text-align:center ;
+    margin-bottom:px ;
+    float:left ;
+    color:cadetblue ;
+    background-color:brown ;
+}
+
+.logo a{
+    font-size:20px ;
+    text-decoration:none ;
+}
+
+.logo a:hover{
+    color:darkgreen;
+}
+
+.header ul{
+    display:inline-block ;
+    background-color:black ;
+    float: right;
+}
+
+.header ul li {
+    list-style-type:none ;
+    float:right;
+    margin:4px ; 
+}
+
+.header ul li a{
+    color:white ;
+    font-size:15px ;
+    text-decoration:none ;
+}
+
+.header ul li a:hover{
+    color:darkred;
+}
+
+.about {
+    text-align:center ;
+    margin-top:50px;
+    margin-left: 37%;
+    width:99px ;
+    height:46px;
+    color: indigo;
+    position:absolute;
+    border-radius:7px ;
+    font-size:35px;
+}
+
+.paragraph {
+    background-color:lightcoral ;
+    border-radius:25px ;
+    text-align:center ;
+    margin-top: 80px;
+    position:fixed ;
+}
+
+.cardd{
+    position: fixed;
+    margin: 75% 38%;
+}
+
